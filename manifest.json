@@ -1,0 +1,10 @@
+{
+  "namespace": "IngoH",
+  "name": "HitboxMod",
+  "description": "Shows hitboxes in Cult of the Lamb",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_CultOfTheLamb-5.4.21"
+  ],
+  "website_url": "https://github.com/IngoHHacks/HitboxMod"
+}
